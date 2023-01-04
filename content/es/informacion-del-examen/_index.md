@@ -8,10 +8,10 @@ weight = 15
 
 |  |  |
 | ------ | ----------- |
-| **Nivel**  | Asociado |
+| **Nivel**  | Associate |
 | **Duración** | 130 minutos para completar el examen |
 | **Costo** | 150 USD |
-| **Formato** | 65 preguntas de opción simple y múltiples respuestas |
+| **Formato** | 65 preguntas de opciones múltiples y múltiples respuestas |
 
 Consulte <a href="https://aws.amazon.com/es/certification/policies/before-testing/#Exam_pricing" target="_blank">Precios del examen</a> para obtener información adicional sobre el costo de otros examenes de certificación.
 
@@ -38,7 +38,7 @@ Consulte <a href="https://aws.amazon.com/es/certification/policies/before-testin
 	{{% notice nota %}} Esta adecuación de tiempo adicional solo aplica sí y solo sí programa un examen en idioma Ingles, no aplica si presenta en Español u otro idioma.
 {{% /notice %}}
 
-En el examen AWS Certified Solutions Architect - Associate, se incluyen cuatro áreas:
+En el examen AWS Certified Solutions Architect - Associate,  En la siguiente tabla, se enumeran los principales dominios de contenido y sus ponderaciones. La tabla precede a la descripción del contenido del examen, que incluye el contexto adicional. El porcentaje de cada dominio solo representa el contenido que recibe un puntaje
 
 |  **Dominio** | **% del examen** |
 | ------ | ----------- |
@@ -46,7 +46,6 @@ En el examen AWS Certified Solutions Architect - Associate, se incluyen cuatro �
 | Dominio 2: diseñar arquitecturas resistentes | 26 % |
 | Dominio 3: diseñar arquitecturas de alto rendimiento | 24 % |
 | Dominio 4: diseñar arquitecturas rentables | 20 % |
-| ------ | ----------- |
 |  **TOTAL** | **100%** |
 
 

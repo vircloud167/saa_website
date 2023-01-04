@@ -11,10 +11,10 @@ weight = 10
 AWS Certified Solutions Architect - Associate muestra conocimientos y habilidades en tecnología de AWS, en una amplia gama de servicios de AWS. Esta certificación se concentra en el diseño de soluciones optimizadas para el costo y el rendimiento, que demuestra un gran entendimiento del AWS Well-Architected Framework. Esta certificación puede mejorar el perfil profesional y los ingresos de las personas certificadas y aumentar su credibilidad y confianza en las interacciones con las partes interesadas y los clientes.
 
 En este examen, también se certifica la capacidad de un candidato para completar las siguientes tareas:
-•	Diseñar soluciones que incorporan servicios de AWS para satisfacer los requisitos actuales de la
+- Diseñar soluciones que incorporan servicios de AWS para satisfacer los requisitos actuales de la
 empresa y las futuras necesidades pronosticadas.
-•	Diseñar arquitecturas seguras, resistentes, de alto rendimiento y rentables.
-•	Revisar las soluciones actuales y elaborar mejoras.
+- Diseñar arquitecturas seguras, resistentes, de alto rendimiento y rentables.
+- Revisar las soluciones actuales y elaborar mejoras.
 
 
 #### ¿A quiénes está dirigido este examen?
@@ -27,9 +27,14 @@ AWS Certified Solutions Architect - Associate es un excelente punto de partida e
 
 - Experiencia con otros servicios en la nube
 
-#### ¿Qué hay que hacer para obtener esta certificación?
+#### Lo que aprenderá
 
-Para obtener esta certificación, deberá hacer y aprobar el examen AWS Certified Solutions Architect - Associate (SAA-C03). El examen presenta una combinación de dos formatos de preguntas: opciones múltiples y respuestas múltiples. La información adicional, como el esquema del contenido del examen y la puntuación para aprobarlo, se encuentra en la guía del examen. Este documento incluye las versiones en español (Latinoamérica) y español (España).
+Prepararse para esta certificación y, posteriormente, obtenerla le brindará lo siguiente:
+
+- Conocimientos y habilidades en computación, redes, almacenamiento y servicios de base de datos de AWS, así como servicios de implementación y administración de AWS.
+- Conocimientos y habilidades en la implementación, administración y operación de cargas de trabajo en AWS, así como en la implementación de controles de seguridad y requisitos de cumplimiento.
+- Conocimientos y habilidades en el uso de la Consola de administración de AWS y la Interfaz de la línea de comandos (CLI) de AWS de Conocimientos sobre el AWS Well-Architected Framework, la red de AWS, los servicios de seguridad y la infraestructura global de AWS.
+- Capacidad para identificar qué servicios de AWS satisfacen un requisito técnico determinado y para definir los requisitos técnicos de una aplicación basada en AWS.
 
 <img src="images/saa-logo.png" alt="drawing"/>
 
