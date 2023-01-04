@@ -1,5 +1,5 @@
 +++ 
-title = "AWS Certified Solutions Architect" 
+title = "AWS Certified Solutions Architect - Associate" 
 chapter = true 
 weight = 10
 +++
