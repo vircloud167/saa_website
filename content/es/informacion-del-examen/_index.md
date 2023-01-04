@@ -8,18 +8,18 @@ weight = 15
 
 |  |  |
 | ------ | ----------- |
-| **Nivel**  | Básico |
-| **Duración** | 90 minutos para completar el examen |
-| **Costo** | 100 USD |
+| **Nivel**  | Asociado |
+| **Duración** | 130 minutos para completar el examen |
+| **Costo** | 150 USD |
 | **Formato** | 65 preguntas de opción simple y múltiples respuestas |
 
 Consulte <a href="https://aws.amazon.com/es/certification/policies/before-testing/#Exam_pricing" target="_blank">Precios del examen</a> para obtener información adicional sobre el costo de otros examenes de certificación.
 
 #### Información adicional:
 
-- La puntuación mínima de aprobación es 700 (la puntuación máxima es 1000).
+- La puntuación mínima de aprobación es 720 (la puntuación máxima es 1000).
 
-- El examen está disponible en inglés, **español**, portugués, entre otros idiomas.
+- El examen está disponible en inglés, **español**, portugués, entre otros idiomas. Se encuentran disponibles solamente a través de Pearson Vue los idiomas español (España). 
 
 - Las certificaciones de AWS tienen una **validez de 3 años**. Consultar para más detalles: <a href="https://aws.amazon.com/es/certification/recertification/" target="_blank">Recertificación de AWS</a>.
 
@@ -35,11 +35,22 @@ Consulte <a href="https://aws.amazon.com/es/certification/policies/before-testin
 	
 	- Seleccione **Crear**.
 
-En el examen AWS Certified Cloud Practitioner, se incluyen cuatro áreas:
+	{{% notice nota %}} Esta adecuación de tiempo adicional solo aplica sí y solo sí programa un examen en idioma Ingles, no aplica si presenta en Español u otro idioma.
+{{% /notice %}}
 
-<img src="images/exam-topics.png" alt="drawing"/>
+En el examen AWS Certified Solutions Architect - Associate, se incluyen cuatro áreas:
 
-En las áreas abarcadas, se describe cada aspecto de la guía del examen para la certificación AWS Certified Cloud Practitioner. Para obtener una descripción de cada área, consulte el sitio web de <a href="https://aws.amazon.com/certification/certified-cloud-practitioner" target="_blank">AWS Certified Cloud Practitioner</a>.
+|  **Dominio** | **% del examen** |
+| ------ | ----------- |
+| Dominio 1: diseñar arquitecturas seguras  | 30 % |
+| Dominio 2: diseñar arquitecturas resistentes | 26 % |
+| Dominio 3: diseñar arquitecturas de alto rendimiento | 24 % |
+| Dominio 4: diseñar arquitecturas rentables | 20 % |
+| ------ | ----------- |
+|  **TOTAL** | **100%** |
+
+
+En las áreas abarcadas, se describe cada aspecto de la guía del examen para la certificación AWS Certified Solutions Architect - Associate. Para obtener una descripción de cada área, consulte este documento incluye las versiones en español (Latinoamérica) y español (España). <a href="https://d1.awsstatic.com/es_ES/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf" target="_blank">AWS Certified Solutions Architect - Associate</a>.
 
 Se ponderá cada área del examen. El peso representa el porcentaje de preguntas del examen que corresponden a esa área en particular. Se trata de aproximaciones, por lo que las preguntas de su examen podrían no concordar exactamente con estos porcentajes. En el examen, no se indica el área asociada a una pregunta. De hecho, es posible que algunas preguntas correspondan a varias áreas.
 

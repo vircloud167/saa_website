@@ -7,7 +7,7 @@ git branch -M main
 
 Para actualizar los cambios ("colocar nombre o descripción del cambio")
 git add .
-git commit -m "initial commit"
+git commit -m "add seccion mini labs"
 git push
 
 
@@ -31,3 +31,14 @@ aws s3 cp content/mapas-mentales/_index.files/AWS_Servicios_de_Informatica.pdf s
 #AWS_Servicios_de_Conectividad.pdf
 aws s3 cp content/mapas-mentales/_index.files/AWS_Servicios_de_Conectividad.pdf s3://ee-assets-prod-us-east-1/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_Servicios_de_Conectividad.pdf
 # https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_Servicios_de_Conectividad.pdf
+
+
+Tabla
+|  Dominio | % del examen |
+| ------ | ----------- |
+| **Dominio**  | Asociado |
+| **Duración** | 130 minutos para completar el examen |
+| **Costo** | 150 USD |
+| **Formato** | 65 preguntas de opción simple y múltiples respuestas |
+
+<img src="images/exam-topics.png" alt="drawing"/>

@@ -28,15 +28,15 @@ weight = 20
 
 1. Seleccione **Inscribirse a un examen**
 
-1. Encontrará todos los examenes disponibles, entre ellos el examen **AWS Certified Cloud Practitioner** así como la opción de seleccionar a cualquiera de los dos proveedores disponibles, **Pearson VUE** o **PSI**. Al seleccionar alguna de las dos opciones será redireccionado al sitio del proveedor que haya elegido. (Los siguientes pasos y capturas de pantalla son del proveedor **Pearson VUE**, puede seleccionar **PSI** como su proveedor y el menu podría variar ligeramente).
+1. Encontrará todos los examenes disponibles, entre ellos el examen **AWS Certified Solutions Architect** A partir del 1 de enero de 2023, todos los exámenes AWS Certification se realizarán a través de **Pearson VUE**. Al seleccionar el proveedor de examen será redireccionado al sitio del proveedor. 
 
-1. Cada proveedor cuenta con opciones para presentar el examen de forma presencial o virtual, seleccione la opción que mas le convenga.
+1. Con **Pearson VUE** puede presentar el examen de forma presencial o virtual, seleccione la opción que mas le convenga.
 
-1. Deberá seleccionar el idioma que desea presentar su examen, **AWS Certified Cloud Practitioner** está disponible para ser presentado en idioma **Español**.
+1. Deberá seleccionar el idioma que desea presentar su examen, **AWS Certified Solutions Architect** está disponible para ser presentado en idioma **Español**.
 
 1. Acepte los términos y condiciones.
 
-1. Ambos proveedores cuentan con opciones para seleccionar el idioma del *supervisor* (o *proctor*) que lo acompañará durante su examen de forma remota. Sin embargo, solo en el caso de haber seleccionado **Pearson VUE** se tiene la opción de que el idioma sea **Español**.
+1. Ambos proveedores cuentan con opciones para seleccionar el idioma del *supervisor* (o *proctor*) que lo acompañará durante su examen de forma remota. Puede contar con  la opción de que el idioma sea **Español**.
 
     <img src="images/idiomaproctor.png" alt="drawing"/>
 
