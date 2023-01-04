@@ -34,24 +34,28 @@ weight = 20
 
 1. Deberá seleccionar el idioma que desea presentar su examen, **AWS Certified Solutions Architect** está disponible para ser presentado en idioma **Español**.
 
+    <img src="images/1idiomaexamen.png" alt="drawing"/>
+
 1. Acepte los términos y condiciones.
 
 1. Ambos proveedores cuentan con opciones para seleccionar el idioma del *supervisor* (o *proctor*) que lo acompañará durante su examen de forma remota. Puede contar con  la opción de que el idioma sea **Español**.
 
-    <img src="images/idiomaproctor.png" alt="drawing"/>
+    <img src="images/2diomaproctor.png" alt="drawing"/>
 
 1. Seleccione la zona horaria en la que se encuentre.
 
 1. Seleccionar la fecha para presentar el examen y a continuación se habilitarán en el panel inferior los horarios disponibles para ese día.
 
-    <img src="images/Picture9.png" alt="drawing"/>
+    <img src="images/Horario.png" alt="drawing"/>
 
 1. Una vez seleccionada la hora y dar **Siguiente** se presentará el resumen del costo del examen para generar el pago. En caso de contar con voucher en el siguiente paso se habilitará la opción para agregar el código para su canje.
 
-    {{% notice tip %}}En caso de que cuente con un voucher promocional, debe asegurarse de haber seleccionado el proveedor de examen correspondiente a dicho voucher.
+    <img src="images/3Summarypayment.png" alt="drawing"/>
+
+    {{% notice tip %}} En caso de que cuente con un voucher promocional, debe asegurarse que se encuentre vigente.
     {{% /notice %}}
 
-    <img src="images/Picture10.png" alt="drawing"/>
+    <img src="images/4applyvoucher.png" alt="drawing"/>
 
 1. Seleccionar **Continuar con el pago**
 
