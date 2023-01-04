@@ -1,0 +1,29 @@
+git init
+git remote add ccp-latam git@github.com:gcanales75/ccp-latam.git
+
+git@github.com:gcanales75/ccp-latam.git
+
+git branch -M main
+
+git add .
+git commit -m "add pt language site"
+git push -u ccp-latam main
+
+
+
+Export to EE S3 bucket
+
+aws s3 cp content/recursos-de-estudio/_index.files/AWS_cloud_practitioner_essentials_additional_resources.pdf s3://ee-assets-prod-us-east-1/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_cloud_practitioner_essentials_additional_resources.pdf
+https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_cloud_practitioner_essentials_additional_resources.pdf
+
+#AWS_Informatica_en_la_nube.pdf
+aws s3 cp content/mapas-mentales/_index.files/AWS_Informatica_en_la_nube.pdf s3://ee-assets-prod-us-east-1/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_Informatica_en_la_nube.pdf
+# https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_Informatica_en_la_nube.pdf
+
+#AWS_Servicios_de_Informatica.pdf
+aws s3 cp content/mapas-mentales/_index.files/AWS_Servicios_de_Informatica.pdf s3://ee-assets-prod-us-east-1/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_Servicios_de_Informatica.pdf
+# https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_Servicios_de_Informatica.pdf
+
+#AWS_Servicios_de_Conectividad.pdf
+aws s3 cp content/mapas-mentales/_index.files/AWS_Servicios_de_Conectividad.pdf s3://ee-assets-prod-us-east-1/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_Servicios_de_Conectividad.pdf
+# https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/b2712516c3c24d58a606eecfb837cb1e/v1/AWS_Servicios_de_Conectividad.pdf
