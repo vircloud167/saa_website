@@ -13,6 +13,8 @@ weight = 15
 | **Costo** | 150 USD |
 | **Formato** | 65 preguntas de opciones múltiples y múltiples respuestas |
 
+ <a href="https://d1.awsstatic.com/es_ES/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf" target="_blank">Descargue la guía del examen »</a>
+
 Consulte <a href="https://aws.amazon.com/es/certification/policies/before-testing/#Exam_pricing" target="_blank">Precios del examen</a> para obtener información adicional sobre el costo de otros examenes de certificación.
 
 #### Información adicional:
@@ -35,10 +37,13 @@ Consulte <a href="https://aws.amazon.com/es/certification/policies/before-testin
 	
 	- Seleccione **Crear**.
 
-	{{% notice Nota %}} Esta adecuación de tiempo adicional solo aplica sí y solo sí programa un examen en idioma Ingles, no aplica si presenta en Español u otro idioma.
-    {{% /notice %}}
+
+{{% notice note %}}Esta adecuación de tiempo adicional solo aplica sí y solo sí se programa el examen en idioma Ingles, no aplica si presenta en Español u otro idioma.
+{{% /notice %}}
+
 
 En el examen AWS Certified Solutions Architect - Associate,  En la siguiente tabla, se enumeran los principales dominios de contenido y sus ponderaciones. La tabla precede a la descripción del contenido del examen, que incluye el contexto adicional. El porcentaje de cada dominio solo representa el contenido que recibe un puntaje
+
 
 |  **Dominio** | **% del examen** |
 | ------ | ----------- |
@@ -47,6 +52,7 @@ En el examen AWS Certified Solutions Architect - Associate,  En la siguiente tab
 | Dominio 3: Diseñar arquitecturas de alto rendimiento | 24 % |
 | Dominio 4: Diseñar arquitecturas rentables | 20 % |
 |  **TOTAL** | **100%** |
+
 
 
 En las áreas abarcadas, se describe cada aspecto de la guía del examen para la certificación AWS Certified Solutions Architect - Associate. Para obtener una descripción de cada área, consulte este documento incluye las versiones en español (Latinoamérica) y español (España). <a href="https://d1.awsstatic.com/es_ES/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf" target="_blank">AWS Certified Solutions Architect - Associate</a>.
