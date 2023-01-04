@@ -13,7 +13,9 @@ AWS Certified Solutions Architect - Associate muestra conocimientos y habilidade
 En este examen, también se certifica la capacidad de un candidato para completar las siguientes tareas:
 - Diseñar soluciones que incorporan servicios de AWS para satisfacer los requisitos actuales de la
 empresa y las futuras necesidades pronosticadas.
+
 - Diseñar arquitecturas seguras, resistentes, de alto rendimiento y rentables.
+
 - Revisar las soluciones actuales y elaborar mejoras.
 
 
@@ -32,8 +34,11 @@ AWS Certified Solutions Architect - Associate es un excelente punto de partida e
 Prepararse para esta certificación y, posteriormente, obtenerla le brindará lo siguiente:
 
 - Conocimientos y habilidades en computación, redes, almacenamiento y servicios de base de datos de AWS, así como servicios de implementación y administración de AWS.
+
 - Conocimientos y habilidades en la implementación, administración y operación de cargas de trabajo en AWS, así como en la implementación de controles de seguridad y requisitos de cumplimiento.
+
 - Conocimientos y habilidades en el uso de la Consola de administración de AWS y la Interfaz de la línea de comandos (CLI) de AWS de Conocimientos sobre el AWS Well-Architected Framework, la red de AWS, los servicios de seguridad y la infraestructura global de AWS.
+
 - Capacidad para identificar qué servicios de AWS satisfacen un requisito técnico determinado y para definir los requisitos técnicos de una aplicación basada en AWS.
 
 <img src="images/saa-logo.png" alt="drawing"/>

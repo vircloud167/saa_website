@@ -51,11 +51,10 @@ weight = 30
 
 - Juego interactivo para aprender más de los conceptos sobre Arquitecto de Soluciones (parte de la suscripción en AWS Skill Builder) <a href="https://cloudquest.skillbuilder.aws/" target="_blank">CLOUD QUEST</a>
 
-- Plan de Aprendizaje gratuito en AWS Skill Builder <a href="https://explore.skillbuilder.aws/learn/learning_plan/view/828/architect-learning-plan-spanish-from-latin-america" target="_blank">Architecting Learning Plan (Spanish From Latin America)</a>
+- Plan de Aprendizaje en AWS Skill Builder
+    - Gratuito:  <a href="https://explore.skillbuilder.aws/learn/learning_plan/view/828/architect-learning-plan-spanish-from-latin-america" target="_blank">Architecting Learning Plan (Spanish From Latin America)</a>
+    - Con laboratorios bajo la suscripción en AWS Skill Builder : <a href="https://explore.skillbuilder.aws/learn/learning_plan/view/855/architect-learning-plan-includes-labs-spanish-from-latin-america" target="_blank">Architect Learning Plan (includes Labs) (Spanish From Latin America)</a>
 
-- Plan de Aprendizaje con laboratorios bajo la suscripción en AWS Skill Builder <a href="https://explore.skillbuilder.aws/learn/learning_plan/view/855/architect-learning-plan-includes-labs-spanish-from-latin-america" target="_blank">Architect Learning Plan (includes Labs) (Spanish From Latin America)</a>
-
-- Plan de Aprendizaje con laboratorios bajo la suscripción en AWS Skill Builder <a href="https://explore.skillbuilder.aws/learn/learning_plan/view/855/architect-learning-plan-includes-labs-spanish-from-latin-america" target="_blank">Architect Learning Plan (includes Labs) (Spanish From Latin America)</a>
 
 - AWS Well Architect Framework: 
 
