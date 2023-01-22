@@ -279,3 +279,8 @@ div.notices.info p {
   .btn-default:active {
     background-image: none !important;
   }
+  .video-shortcode {
+    max-width: 100%;
+    height: auto;
+  }
+  

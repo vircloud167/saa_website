@@ -7,7 +7,7 @@ git branch -M main
 
 Para actualizar los cambios ("colocar nombre o descripción del cambio")
 git add .
-git commit -m "cambios agendar examen nuevas fotos"
+git commit -m "cambio de letras"
 git push
 
 
