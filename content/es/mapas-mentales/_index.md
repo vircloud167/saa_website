@@ -13,7 +13,12 @@ Los **Mapas Mentales** son herramientas que ayudan a estructurar conceptos, cono
 {{% notice note %}}Son herramientas complementarias de estudio, no reemplazan los cursos, videos, lectura, examenes de prueba u otros recursos recomendados de preparación para un examen de certificación.
 {{% /notice %}}
 
+
+- <a href="https://www.xmind.net/m/YmfSEV" target="_blank">AWS Servicios de Informática / Cómputo</a>
+- <a href="https://www.xmind.net/m/ch9cra" target="_blank">AWS Seguridad & Cumplimiento </a>
+- <a href="https://www.xmind.net/m/rdMTjZ" target="_blank">AWS Well Architected Framework</a>
 - <a href="https://xmind.app/m/JPkLyi/" target="_blank">AWS Optimización & Administración de Costos</a>
+
 
 
 <img src="images/logo-bar.png" alt="drawing"/>
