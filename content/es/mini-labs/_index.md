@@ -8,13 +8,13 @@ weight = 50
 
 ## Laboratorios guiados
 
-La certificación AWS Certified Solutions Architect Associate (SAA-C03) es la certificación más demandada en la industria de la informática en la nube. El objectivo de este sitio es poder llevar a cabo laboratorios guiados para que puedas poner en prácticas tus conocimientos.
+La certificación **AWS Certified Solutions Architect Associate (SAA-C03)** es la certificación más demandada en la industria de la informática en la nube. El objectivo de este sitio es poder llevar a cabo laboratorios guiados para que puedas poner en prácticas tus conocimientos.
 
 El examen AWS Solutions Architect Associate es uno de los exámenes de certificación más desafiantes. Esta certificación pondrá a prueba los conceptos clave utilizados en la tecnología de AWS y cómo utiliza esas habilidades para diseñar la arquitectura. 
 
 Es importante contar con los fundamentos de Amazon Web Services para aprovechar al máximo los Laboratorios
 
-{{% notice note %}} En cada laboratorio se mencionará si su ejecución se considera un costo mínimo o costo $0, MUY IMPORTANTE al terminar cada Laboratorio realizar el paso de **limpieza o Clean up** para eliminar las configuraciones y deshabilitación de servicios con la finalidad de no generar costos futuros.
+{{% notice note %}} En cada laboratorio se mencionará si su ejecución se considera un costo mínimo o costo $0, MUY IMPORTANTE al terminar cada Laboratorio realizar el paso de **Limpieza o Clean up** para eliminar las configuraciones y deshabilitación de servicios con la finalidad de no generar costos futuros.
 {{% /notice %}}
 
 #### 
@@ -45,7 +45,7 @@ En la página de la Capa gratuita de AWS, bajo el encabezado Detalles de la Capa
 
 3. Al seleccionar  <a href="https://aws.amazon.com/es/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23trial&awsf.Free%20Tier%20Categories=*all" target="_blank"> Pruebas  </a>   dichas ofertas le permiten utilizar un servicio durante un período específico de tiempo o cantidad determinada de operaciones.
 
-<img src="images/ofertascg.png" alt="drawing"/>
+<img src="images/5ofertascg.png" alt="drawing"/>
 
 ## ¿Cómo revisar los gastos y uso de la Capa Gratuita?
 Por favor, <a href="https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26state%3DhashArgsFromTB_us-east-2_691f3184ab83b0ba&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&forceMobileApp=0&code_challenge=14RRARavML8l5UECCXSnKKILN60TYc5Xl7GfxdxciAI&code_challenge_method=SHA-256" target="_blank"> Regístrese en AWS (o inicie sesión en la Consola)  </a>  
@@ -79,7 +79,7 @@ Para que otras personas puedan recibir alertas de uso de la Capa gratuita, agreg
 
 <img src="images/5bd.png" alt="drawing"/>
 
-ASDASDASDASDASDASD P R E S U P U E S T O ASDASDASDASDASDASD
+
 
 ## ¿Cómo crear un presupuesto en la Consola?
 Cree presupuesto de costos en la Consola de facturación de AWS con los Presupuestos de AWS **(AWS Billing Console using AWS Budget)**. Como parte de su presupuesto de costos, establecerá tres notificaciones: 

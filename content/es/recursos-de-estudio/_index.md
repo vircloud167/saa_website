@@ -60,7 +60,7 @@ weight = 30
 
     -<a href="https://aws.amazon.com/es/architecture/well-architected/?nc1=h_ls&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc" target="_blank">Vista General del Marco de Buena Arquitectura</a>
 
-    -<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/609/aws-well-architected-spanish-from-latin-america" target="_blank">AWS Well-Architected (Spanish from Latin America)a</a>
+    -<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/609/aws-well-architected-spanish-from-latin-america" target="_blank">AWS Well-Architected (Spanish from Latin America)</a>
 
 - Descripción general de Amazon Web Services:  <a href="https://docs.aws.amazon.com/es_es/whitepapers/latest/aws-overview/aws-overview.pdf?did=wp_card&trk=wp_card" target="_blank">Documento técnico de AWS</a>
 
