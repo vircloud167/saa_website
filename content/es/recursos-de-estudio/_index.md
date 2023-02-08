@@ -38,17 +38,6 @@ weight = 30
 
 
 
-- Sesiones AWS PartnerCast - Rocket Journey: Solutions Architect Associate 
-
-    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14318/aws-partnercast-rocket-journey-solutions-architect-associate-arquitecturas-resilientes-technical" target="_blank"> Arquitecturas Resilientes</a>
-
-    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14376/aws-partnercast-rocket-journey-solutions-architect-associate-arquitecturas-de-alto-rendimiento-technical" target="_blank"> Arquitecturas de alto redimento</a>
-
-    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14460/aws-partnercast-rocket-journey-solutions-architect-associate-arquitecturas-seguras-technical" target="_blank"> Arquitecturas seguras)</a>
-
-    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14524/aws-partnercast-rocket-journey-solutions-architect-associate-arquitecturas-de-costo-optimizado-technical" target="_blank"> Arquitecturas de costo optimizado</a>
-
-
 - Juego interactivo para aprender más de los conceptos sobre Arquitecto de Soluciones (parte de la suscripción en AWS Skill Builder) <a href="https://cloudquest.skillbuilder.aws/" target="_blank">CLOUD QUEST</a>
 
 - Plan de Aprendizaje en AWS Skill Builder
