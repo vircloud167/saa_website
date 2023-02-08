@@ -37,7 +37,6 @@ weight = 30
     - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/3314/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-revision-y-proximos-pasos-video-12-technical" target="_blank">  Revisión y próximos pasos (video 12)</a>
 
 
-
 - Juego interactivo para aprender más de los conceptos sobre Arquitecto de Soluciones (parte de la suscripción en AWS Skill Builder) <a href="https://cloudquest.skillbuilder.aws/" target="_blank">CLOUD QUEST</a>
 
 - Plan de Aprendizaje en AWS Skill Builder
