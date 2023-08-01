@@ -8,16 +8,16 @@ weight = 15
 
 |  |  |
 | ------ | ----------- |
-| **Nível**  | Básico |
-| **Duração** | 90 minutos para concluir o exame |
-| **Custo** | 100 USD |
+| **Nível**  | Associate |
+| **Duração** | 130 minutos para concluir o exame |
+| **Custo** | 150 USD |
 | **Formato** | 65 perguntas de múltipla escolha ou com várias respostas |
 
 Consulte <a href="https://aws.amazon.com/pt/certification/policies/before-testing/#Exam_pricing" target="_blank">Preço do exame</a> para obter informações adicionais sobre o custo de outros exames de certificação.
 
 #### Informação adicional:
 
-- A pontuação mínima de aprovação é 700 (a pontuação máxima é 1000).
+- A pontuação mínima de aprovação é 720 (a pontuação máxima é 1000).
 
 - O exame está disponível em inglês, espanhol, **português**, entre outros idiomas.
 
@@ -35,11 +35,11 @@ Consulte <a href="https://aws.amazon.com/pt/certification/policies/before-testin
 	
 	- Selecione **Criar**.
 
-O exame AWS Certified Cloud Practitioner inclui quatro domínios:
+O exame AWS Certified Solution Architect inclui quatro domínios
 
 <img src="images/exam-topics.png" alt="drawing"/>
 
-Os domínios cobertos descrevem cada aspecto do guia do exame de certificação AWS Certified Cloud Practitioner. Para uma descrição de cada área, consulte o site da <a href="https://aws.amazon.com/pt/certification/certified-cloud-practitioner/" target="_blank">AWS Certified Cloud Practitioner</a>.
+Os domínios cobertos descrevem cada aspecto do guia do exame de certificação AWS Certified Solution Architect. Para uma descrição de cada área, consulte o site da  <a href="https://d1.awsstatic.com/pt_BR/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf/" target="_blank">AWS Certified Cloud Practitioner</a>.
 
 Cada domínio do exame será ponderado. O peso representa a porcentagem de questões do exame que se enquadram nesse domínio específico. Essas são aproximações, portanto, suas perguntas do teste podem não corresponder exatamente a essas porcentagens. No exame, a área associada a uma questão não é indicada. De fato, é possível que algumas questões correspondam a diversas áreas.
 
