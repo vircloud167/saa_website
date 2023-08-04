@@ -10,13 +10,16 @@ weight = 10
 
 AWS Certified Solutions Architect - Associate muestra conocimientos y habilidades en tecnología de AWS, en una amplia gama de servicios de AWS. Esta certificación se concentra en el diseño de soluciones optimizadas para el costo y el rendimiento, que demuestra un gran entendimiento del AWS Well-Architected Framework. Esta certificación puede mejorar el perfil profesional y los ingresos de las personas certificadas y aumentar su credibilidad y confianza en las interacciones con las partes interesadas y los clientes.
 
+El examen **AWS Certified Solutions Architect - Associate (SAA-C03)** está diseñado para personas que desempeñan un rol en la arquitectura de soluciones. En el examen, se verifica la capacidad del candidato de utilizar las tecnologías de AWS para diseñar soluciones basadas en el AWS Well-Architected Framework.
+
 En este examen, también se certifica la capacidad de un candidato para completar las siguientes tareas:
-- Diseñar soluciones que incorporan servicios de AWS para satisfacer los requisitos actuales de la
+
+-  Diseñar soluciones que incorporan servicios de AWS para satisfacer los requisitos actuales de la
 empresa y las futuras necesidades pronosticadas.
 
-- Diseñar arquitecturas seguras, resistentes, de alto rendimiento y rentables.
+-  Diseñar arquitecturas seguras, resistentes, de alto rendimiento y rentables.
 
-- Revisar las soluciones actuales y elaborar mejoras.
+-  Revisar las soluciones actuales y elaborar mejoras.
 
 
 #### ¿A quiénes está dirigido este examen?
