@@ -44,14 +44,14 @@ weight = 20
 
 1. Selecione a data para fazer o exame e, em seguida, os horários disponíveis para esse dia serão ativados no painel inferior.
 
-    <img src="images/Picture9.png" alt="drawing"/>
+    <img src="images/Picture1_1.png" alt="drawing"/>
 
 1. Uma vez selecionado o horário e clique em **Avançar**, será apresentado o resumo do custo do exame para gerar o pagamento. Se você tiver um voucher, a opção de adicionar o código para resgate será habilitada na próxima etapa.
 
     {{% notice tip %}}No caso de possuir um voucher promocional, deve certificar-se de que selecionou o fornecedor de exames correspondente ao referido voucher.
     {{% /notice %}}
 
-    <img src="images/Picture10.png" alt="drawing"/>
+    <img src="images/Picture11_1_.png" alt="drawing"/>
 
 1. Selecionar **Proceder para finalizar**.
 
