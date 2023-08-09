@@ -12,35 +12,39 @@ weight = 30
 
 - Curso AWS PartnerCast: FastTrack SAA Series: AWS Solutions Architect Associate (SAA): 
 
-    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/3467/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-amazon-ec2-video-02-technical" target="_blank"> (SAA) - Introdução (vídeo 1)</a>
 
-    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/3467/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-amazon-ec2-video-02-technical" target="_blank"> Amazon EC2 (vídeo 2)</a>
+    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/3467/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-amazon-ec2-video-02-technical" target="_blank"> Amazon EC2 </a>
 
-    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/3319/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-amazon-s3-video-03-technical" target="_blank"> Amazon S3 (vídeo 3)</a>
+    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/3319/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-amazon-s3-video-03-technical" target="_blank"> Amazon S3 </a>
 
-    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/3634/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-aws-iam-video-04-technical" target="_blank"> AWS IAM (vídeo 4)</a>
+    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/3634/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-aws-iam-video-04-technical" target="_blank"> AWS IAM </a>
 
-    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13254/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-amazon-vpc-video-05-technical" target="_blank"> Amazon VPC (vídeo 5)</a>
+    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13254/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-amazon-vpc-video-05-technical" target="_blank"> Amazon VPC </a>
 
     - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13229/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-amazon-rds-and-amazon-dynamodb-video-06-technical" target="_blank"> Amazon RDS and Amazon DynamoDB (vídeo 6)</a>
 
-    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13226/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-elastic-load-balancing-and-amazon-ec2-auto-scaling-video-07-technical" target="_blank"> Amazon Elastic Load Balancing and EC2 Auto Scaling (vídeo 7)</a>
+    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13226/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-elastic-load-balancing-and-amazon-ec2-auto-scaling-video-07-technical" target="_blank"> Amazon Elastic Load Balancing and EC2 Auto Scaling </a>
 
-    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13228/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-amazon-cloudfront-and-amazon-route-53-video-08-technical" target="_blank"> Amazon CloudFront and Amazon Route 53 (vídeo 8)</a>
+    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13228/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-amazon-cloudfront-and-amazon-route-53-video-08-technical" target="_blank"> Amazon CloudFront and Amazon Route 53 </a>
 
-    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13251/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-amazon-sqs-amazon-sns-video-09-technical" target="_blank">  Amazon SQS - Amazon SNS (vídeo 9)</a>
+    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13251/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-amazon-sqs-amazon-sns-video-09-technical" target="_blank">  Amazon SQS - Amazon SNS </a>
 
-    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13250/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-aws-lambda-and-amazon-api-gateway-video-10-technical" target="_blank">  AWS Lambda and Amazon API Gateway (vídeo 10)</a>
+    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13250/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-aws-lambda-and-amazon-api-gateway-video-10-technical" target="_blank">  AWS Lambda and Amazon API Gateway </a>
     
-    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13248/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-amazon-cloudwatch-amazon-cloudtrail-and-aws-config-video-11-technical" target="_blank">  Amazon CloudWatch, Amazon CloudTrail and AWS Config (vídeo 11)</a>
+    - <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13248/aws-partnercast-fasttrack-saa-series-aws-solutions-architect-associate-saa-amazon-cloudwatch-amazon-cloudtrail-and-aws-config-video-11-technical" target="_blank">  Amazon CloudWatch, Amazon CloudTrail and AWS Config </a>
 
 
 
 - Jogo interativo para saber mais sobre os conceitos do Solution Architect (parte da assinatura do AWS Skill Builder):  <a href="https://cloudquest.skillbuilder.aws/" target="_blank">CLOUD QUEST</a>
 
-- •	Plano de aprendizado no AWS Skill Builder
-    - Gratuito:  <a href="https://explore.skillbuilder.aws/learn/learning_plan/view/832/architect-learning-plan-portuguese" target="_blank">Architecting Learning Plan (Portuguese)</a>
-    - om laboratórios sob a assinatura do AWS Skill Builder : <a href="https://explore.skillbuilder.aws/learn/learning_plan/view/860/architect-learning-plan-includes-labs-portuguese" target="_blank">Architect Learning Plan (includes Labs) (Portuguese)</a>
+
+-  Plano de aprendizado no AWS Skill Builder 
+    - Gratuito:  <a href="https://explore.skillbuilder.aws/learn/learning_plan/view/1044/solutions-architect-knowledge-badge-readiness-path" target="_blank">Solutions Architect - Knowledge Badge Readiness Path</a>
+    
+    - Com laboratórios sob a assinatura do AWS Skill Builder : <a href="https://explore.skillbuilder.aws/learn/learning_plan/view/1728/solution-architect-associate-partner-learning-plan-subscription" target="_blank">Architect Learning Plan (includes Labs) (Portuguese)</a>
+
+     - Este suplemento de curso online (OCS) é um recurso complementar do treinamento em sala "Architecting on AWS". : <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12690/architecting-on-aws-online-course-supplement-portuguese" target="_blank"> Architecting on AWS - Online Course Supplement (Portuguese) </a>
+
 
 
 - AWS Well Architect Framework: 
@@ -55,7 +59,8 @@ weight = 30
 
 - Comparação dos planos de suporte: : <a href="https://aws.amazon.com/pt/premiumsupport/plans/?nc1=h_ls" target="_blank">Suporte AWS</a>
 
-Preparação para certificação:
+
+**Preparação para certificação:**
 
 - Revisão do exame:  <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1037/exam-readiness-aws-certified-solutions-architect-associate-digital-portuguese" target="_blank"> Exam Readiness: AWS Certified Solutions Architect – Associate (Digital) (Portuguese)</a> 
 
@@ -66,7 +71,7 @@ Preparação para certificação:
 
 - Guia do exame <a href="https://d1.awsstatic.com/pt_BR/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf" target="_blank">GRATIS en Skillbuilder</a>
 
-- Avalie seus conhecimentos:  <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13364/aws-certified-solutions-architect-associate-official-practice-question-set-saa-c03-portuguese" target="_blank"> AWS Certified Solutions Architect - Associate Official Practice Question Set (SAA-C03 - Portuguese) Assessment</a>
+- Avalie seus conhecimentos :  <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13364/aws-certified-solutions-architect-associate-official-practice-question-set-saa-c03-portuguese" target="_blank"> AWS Certified Solutions Architect - Associate Official Practice Question Set (SAA-C03 - Portuguese) Assessment</a>
 
 - <a href="https://docs.aws.amazon.com/pt_br/general/latest/gr/glos-chap.html" target="_blank">AWS Glossário da AWS</a>
 

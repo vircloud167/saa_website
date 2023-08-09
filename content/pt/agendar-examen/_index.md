@@ -51,7 +51,7 @@ weight = 20
     {{% notice tip %}}No caso de possuir um voucher promocional, deve certificar-se de que selecionou o fornecedor de exames correspondente ao referido voucher.
     {{% /notice %}}
 
-    <img src="images/Picture11_1_.png" alt="drawing"/>
+    <img src="images/Picture11_1.png" alt="drawing"/>
 
 1. Selecionar **Proceder para finalizar**.
 
