@@ -31,7 +31,7 @@ El objetivo de este sitio es poder llevar a cabo laboratorios guiados para que p
 {{% notice tip %}} Antes de iniciar los Labs te recomendamos utilizar la **Capa Gratuita de AWS, monitorear tus gastos y establecer Presupuestos para tener mayor control de costos.**
 {{% /notice %}}
 
-# <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b4042674-4891-4b02-b79b-341fb81e5a94" target="_blank"> ENLACE DE LOS MINILABS</a>
+## <a href="https://aws.amazon.com/getting-started/hands-on/?awsf.getting-started-category=*all&getting-started-all.q=ec2&getting-started-all.q_operator=AND&getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc" target="_blank"> Amazon EC2 Backup and Restore Using AWS Backup</a>
 
 <img src="images/logo-bar.png" alt="drawing"/>
 
