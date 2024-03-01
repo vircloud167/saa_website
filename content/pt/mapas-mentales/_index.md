@@ -23,4 +23,6 @@ Os **Mapas Mentais** são ferramentas que auxiliam na estruturação de conceito
 
 - <a href="https://www.xmind.net/m/X3ZuFD" target="_blank">AWS Well Architected Framework</a>
 
+- <a href="https://xmind.app/m/mzvwHg" target="_blank">AWS AI ML Services </a>
+
 <img src="images/logo-bar.png" alt="drawing"/>
